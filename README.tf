@@ -10,7 +10,7 @@ terraform {
 }
 
 provider "aws" {
-  region = "ap-south-1"
+  region = "ap-southeast-1"
 }
 
 module "eks" {
